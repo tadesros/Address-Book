@@ -1,0 +1,1317 @@
+    WELCOME TO THE FILE PROCESSING SYSTEM
+
+
+
+
+               Main Menu
+
+        [1] File creation
+
+        [2] Master File update
+
+        [3] Quite
+
+
+        Choose 1,2 or 4: 1
+
+
+       FILE CREATION
+
+     [1] Create Master File
+
+     [2] Create Transaction File
+
+     [3] Main Menu
+
+     Enter your choice from above: 1
+
+
+     Enter the name of the file you wish to create.
+
+     The filename must be less than 30 char. long: master.txt
+
+
+
+      Last Name (15 char): DesRosiers
+
+      First Name (10 char): Tom
+
+      Soc. Sec. (9 digits)#: 212121212
+
+      Street (25 char.): 44 Garrison Rd.
+
+      City (15 char): Marietta
+
+      State (2 char): GA
+
+      Zip (5 digits): 30008
+
+      Rate Pay (5 num, 2 decimal): 999.99
+
+      Number of Depend.: 1
+
+
+     Last Name:   DesRosiers
+     First Name:  Tom
+     Social:      212121212
+     Street:      44 Garrison Rd.
+     City:        Marietta
+     State:       GA
+     Zip:         30008
+     Rate:       $ 999.99
+     # Depend:    1
+
+     Enter 'Y' or 'y' if this record is ok
+     Any other entry will allow you to re-enter the record: y
+
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+
+
+        Last Name (15 char): Gantly
+
+        First Name (10 char): Jimmy
+
+        Soc. Sec. (9 digits)#: 12345678
+
+        Street (25 char.): 55 Spring ST.
+
+        City (15 char): Atlanta
+
+        State (2 char): GA
+
+        Zip (5 digits): 89888
+
+        Rate Pay (5 num, 2 decimal): 111.11
+
+        Number of Depend.: 2
+
+
+         Last Name:   Gantly
+         First Name:  Jimmy
+         Social:      12345678
+         Street:      55 Spring ST.
+         City:        Atlanta
+         State:       GA
+         Zip:         89888
+         Rate:       $ 111.11
+         # Depend:    2
+
+         Enter 'Y' or 'y' if this record is ok
+         Any other entry will allow you to re-enter the record: y
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+
+
+        Last Name (15 char): Oakly
+
+        First Name (10 char): Anny
+
+        Soc. Sec. (9 digits)#: 13212321
+
+        Street (25 char.): 22 Happy Trails Rd.
+
+        City (15 char): Washington
+
+        State (2 char): OR
+
+        Zip (5 digits): 87867
+
+        Rate Pay (5 num, 2 decimal): 222.22
+
+        Number of Depend.: 3
+
+
+         Last Name:   Oakly
+         First Name:  Anny
+         Social:      13212321
+         Street:      22 Happy Trails Rd.
+         City:        Washington
+         State:       OR
+         Zip:         87867
+         Rate:       $ 222.22
+         # Depend:    3
+
+         Enter 'Y' or 'y' if this record is ok
+         Any other entry will allow you to re-enter the record: y
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+
+
+        Last Name (15 char): Hendrix
+
+        First Name (10 char): Jimmy
+
+        Soc. Sec. (9 digits)#: 123456
+
+        Street (25 char.): 11 Sunny Road
+
+        City (15 char): New York
+
+        State (2 char): NY
+
+        Zip (5 digits): 32432
+
+        Rate Pay (5 num, 2 decimal): 100.11
+
+        Number of Depend.: 1
+
+
+         Last Name:   Hendrix
+         First Name:  Jimmy
+         Social:      123456
+         Street:      11 Sunny Road
+         City:        New York
+         State:       NY
+         Zip:         32432
+         Rate:       $ 100.11
+         # Depend:    1
+
+         Enter 'Y' or 'y' if this record is ok
+         Any other entry will allow you to re-enter the record: y
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+   
+        Last Name (15 char): Simpson
+
+        First Name (10 char): Homer
+
+        Soc. Sec. (9 digits)#: 123212321
+
+        Street (25 char.): 22 Cartoon St.
+
+        City (15 char): Springfield
+
+        State (2 char): AZ
+
+        Zip (5 digits): 23234
+
+        Rate Pay (5 num, 2 decimal): 999.99
+
+        Number of Depend.: 3
+
+
+        Last Name:   Simpson
+        First Name:  Homer
+        Social:      123212321
+        Street:      22 Cartoon St.
+        City:        Springfield
+        State:       AZ
+        Zip:         23234
+        Rate:       $ 999.99
+        # Depend:    3
+
+        Enter 'Y' or 'y' if this record is ok
+        Any other entry will allow you to re-enter the record: y
+
+
+        If you would like to enter another record
+        Enter a 'Y' or 'y'-- any other entry will be
+        assumed to be a no: y
+
+
+
+       Last Name (15 char): Barkley
+
+       First Name (10 char): Charles
+
+       Soc. Sec. (9 digits)#: 123212321
+
+       Street (25 char.): 11 Powder Springs
+
+       City (15 char): Orlando
+
+       State (2 char): FL
+
+       Zip (5 digits): 123221
+
+       Rate Pay (5 num, 2 decimal): 122.11
+
+       Number of Depend.: 2
+
+
+        Last Name:   Barkley
+        First Name:  Charles
+        Social:      123212321
+        Street:      11 Powder Springs
+        City:        Orlando
+        State:       FL
+        Zip:         123221
+        Rate:       $ 122.11
+        # Depend:    2
+
+        Enter 'Y' or 'y' if this record is ok
+        Any other entry will allow you to re-enter the record: y
+
+
+       If you would like to enter another record
+       Enter a 'Y' or 'y'-- any other entry will be
+       assumed to be a no: y
+
+
+
+      Last Name (15 char): Madison
+
+      First Name (10 char): Billy
+
+      Soc. Sec. (9 digits)#: 123232321
+
+      Street (25 char.): 33 Twisted Trail
+
+      City (15 char): Sante Fe
+
+      State (2 char): NM
+
+      Zip (5 digits): 67654
+
+      Rate Pay (5 num, 2 decimal): 333.22
+
+      Number of Depend.: 1
+
+         Enter 'Y' or 'y' if this record is ok
+         Any other entry will allow you to re-enter the record: y
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+
+
+        Last Name (15 char): Clinton
+
+        First Name (10 char): Bill
+
+        Soc. Sec. (9 digits)#: 238958473
+
+        Street (25 char.): 1600 Pennsylvania Av.
+
+        City (15 char): Washington
+
+        State (2 char): DC
+
+        Zip (5 digits): 56543
+
+        Rate Pay (5 num, 2 decimal): 999.99
+
+        Number of Depend.: 1
+
+
+       Last Name:   Clinton
+       First Name:  Bill
+       Social:      238958473
+       Street:      1600 Pennsylvania Av.
+       City:        Washington
+       State:       DC
+       Zip:         56543
+       Rate:       $ 999.99
+       # Depend:    1
+
+       Enter 'Y' or 'y' if this record is ok
+       Any other entry will allow you to re-enter the record: y
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+
+
+        Last Name (15 char): Crystal
+
+        First Name (10 char): Billy
+
+        Soc. Sec. (9 digits)#: 123123212
+
+        Street (25 char.): 22 Park Av.
+
+        City (15 char): New York
+
+        State (2 char): NY
+
+        Zip (5 digits): 98743
+
+        Rate Pay (5 num, 2 decimal): 111.11
+
+        Number of Depend.: 1
+
+
+         Last Name:   Crystal
+         First Name:  Billy
+         Social:      123123212
+         Street:      22 Park Av.
+         City:        New York
+         State:       NY
+         Zip:         98743
+         Rate:       $ 111.11
+         # Depend:    1
+
+         Enter 'Y' or 'y' if this record is ok
+         Any other entry will allow you to re-enter the record: y
+
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+
+
+        Last Name (15 char): Busch
+
+        First Name (10 char): George
+
+        Soc. Sec. (9 digits)#: 8973842
+
+        Street (25 char.): 33 Governers Rd.
+
+        City (15 char): Austin
+
+        State (2 char): TX
+
+        Zip (5 digits): 65432
+
+        Rate Pay (5 num, 2 decimal): 211.33
+
+        Number of Depend.: 1
+
+
+         Last Name:   Busch
+         First Name:  George
+         Social:      8973842
+         Street:      33 Governers Rd.
+         City:        Austin
+         State:       TX
+         Zip:         65432
+         Rate:       $ 211.33
+         # Depend:    1
+
+         Enter 'Y' or 'y' if this record is ok
+         Any other entry will allow you to re-enter the record: y
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+
+
+         Last Name (15 char): Lewis
+
+         First Name (10 char): Jerry
+
+         Soc. Sec. (9 digits)#: 45654565
+
+         Street (25 char.): 123 Delk Rd.
+
+         City (15 char): Boston
+
+         State (2 char): MA
+
+         Zip (5 digits): 56433
+
+         Rate Pay (5 num, 2 decimal): 233.12
+
+         Number of Depend.: 2
+
+
+         Last Name:   Lewis
+         First Name:  Jerry
+         Social:      45654565
+         Street:      123 Delk Rd.
+         City:        Boston
+         State:       MA
+         Zip:         56433
+         Rate:       $ 233.12
+         # Depend:    2
+
+         Enter 'Y' or 'y' if this record is ok
+         Any other entry will allow you to re-enter the record: y
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+
+
+        Last Name (15 char): Letterman
+
+        First Name (10 char): David
+
+        Soc. Sec. (9 digits)#: 123212321
+
+        Street (25 char.): 234 Comedy Street
+
+        City (15 char): New York
+
+        State (2 char): NY
+
+        Zip (5 digits): 76543
+
+        Rate Pay (5 num, 2 decimal): 334.55
+
+        Number of Depend.: 0
+
+
+         Last Name:   Letterman
+         First Name:  David
+         Social:      123212321
+         Street:      234 Comedy Street
+         City:        New York
+         State:       NY
+         Zip:         76543
+         Rate:       $ 334.55
+         # Depend:    0
+
+         Enter 'Y' or 'y' if this record is ok
+         Any other entry will allow you to re-enter the record: y
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+
+
+        Last Name (15 char): Leno
+
+        First Name (10 char): Jay
+
+        Soc. Sec. (9 digits)#: 345434323
+
+        Street (25 char.): 333 Funny Rd.
+
+        City (15 char): Los Angelos
+
+        State (2 char): CA
+
+        Zip (5 digits): 87654
+
+        Rate Pay (5 num, 2 decimal): 111.33
+
+        Number of Depend.: 8
+
+         Enter 'Y' or 'y' if this record is ok
+         Anyh other entry will allow you to re-enter the record: y
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+
+
+        Last Name (15 char): Hamilton
+
+        First Name (10 char): Joe
+
+        Soc. Sec. (9 digits)#: 323232132
+
+        Street (25 char.): 455 Sunny Dale
+
+        City (15 char): Nome
+
+        State (2 char): AL
+
+        Zip (5 digits): 76543
+
+        Rate Pay (5 num, 2 decimal): 222.33
+
+        Number of Depend.: 3
+
+         Enter 'Y' or 'y' if this record is ok
+         Anyh other entry will allow you to re-enter the record: y
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+
+
+        Last Name (15 char): Gates
+
+        First Name (10 char): Bill
+
+        Soc. Sec. (9 digits)#: 322322123
+
+        Street (25 char.): 22 Microsoft Rd.
+
+        City (15 char): Seattle
+
+        State (2 char): WA
+
+        Zip (5 digits): 54321
+
+        Rate Pay (5 num, 2 decimal): 999.99
+
+        Number of Depend.: 4
+
+
+         Last Name:   Gates
+         First Name:  Bill
+         Social:      322322123
+         Street:      22 Microsoft Rd.
+         City:        Seattle
+         State:       WA
+         Zip:         54321
+         Rate:       $ 999.99
+         # Depend:    4
+
+         Enter 'Y' or 'y' if this record is ok
+         Anyh other entry will allow you to re-enter the record: y
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+
+
+        Last Name (15 char): Anderson
+
+        First Name (10 char): Pamela
+
+        Soc. Sec. (9 digits)#: 323456543
+
+        Street (25 char.): 432  Baywatch Rd.
+
+        City (15 char): Hollywood
+
+        State (2 char): CA
+
+        Zip (5 digits): 67543
+
+        Rate Pay (5 num, 2 decimal): 877.88
+
+        Number of Depend.: 3
+
+
+         Last Name:   Anderson
+         First Name:  Pamela
+         Social:      323456543
+         Street:      432  Baywatch Rd.
+         City:        Hollywood
+         State:       CA
+         Zip:         67543
+         Rate:       $ 877.88
+         # Depend:    3
+
+         Enter 'Y' or 'y' if this record is ok
+         Anyh other entry will allow you to re-enter the record: y
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+
+       
+        Last Name (15 char): Baines
+
+        First Name (10 char): Frank
+
+        Soc. Sec. (9 digits)#: 23905943
+
+        Street (25 char.): 333 Ford Av.
+
+        City (15 char): Detroit
+
+        State (2 char): MI
+
+        Zip (5 digits): 76543
+
+        Rate Pay (5 num, 2 decimal): 333.21
+
+        Number of Depend.: 3
+
+
+         Last Name:   Baines
+         First Name:  Frank
+         Social:      23905943
+         Street:      333 Ford Av.
+         City:        Detroit 
+         State:       MI
+         Zip:         76543
+         Rate:       $ 333.21
+         # Depend:    3
+
+         Enter 'Y' or 'y' if this record is ok
+         Any other entry will allow you to re-enter the record: y
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+
+
+        Last Name (15 char): Jones
+
+        First Name (10 char): James
+
+        Soc. Sec. (9 digits)#: 3489543
+
+        Street (25 char.): 654 Downing Rd.
+
+        City (15 char): Akron
+
+        State (2 char): OH
+
+        Zip (5 digits): 89765
+
+        Rate Pay (5 num, 2 decimal): 222.34
+
+        Number of Depend.: 4
+
+        Enter 'Y' or 'y' if this record is ok
+        Any other entry will allow you to re-enter the record: y
+
+        If you would like to enter another record
+        Enter a 'Y' or 'y'-- any other entry will be
+        assumed to be a no: y
+
+
+
+        Last Name (15 char): Filman
+
+        First Name (10 char): Regis
+
+        Soc. Sec. (9 digits)#: 23231232
+
+        Street (25 char.): 9 Show me the money rd.
+
+        City (15 char): Las Vegas
+
+        State (2 char): CA
+
+        Zip (5 digits): 34232
+
+        Rate Pay (5 num, 2 decimal): 111.23
+
+
+
+         Last Name:   Filman
+         First Name:  Regis
+         Social:      23231232
+         Street:      9 Show me the money rd.
+         City:        Las Vegas
+         State:       CA
+         Zip:         34232
+         Rate:       $ 111.23
+         # Depend:    2
+
+         Enter 'Y' or 'y' if this record is ok
+         Any other entry will allow you to re-enter the record: y
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+
+
+        Last Name (15 char): Doo
+
+        First Name (10 char): Scooby
+
+        Soc. Sec. (9 digits)#: 2342321
+
+        Street (25 char.): 2 Imaginary St.
+
+        City (15 char): Cartoon
+
+        State (2 char): MA
+
+        Zip (5 digits): 34232
+
+        Rate Pay (5 num, 2 decimal): 222.22
+
+        Number of Depend.: 1
+
+
+         Last Name:   Doo
+         First Name:  Scooby
+         Social:      2342321
+         Street:      2 Imaginary St.
+         City:        Cartoon
+         State:       MA
+         Zip:         34232
+         Rate:       $ 222.22
+         # Depend:    1
+
+         Enter 'Y' or 'y' if this record is ok
+         Any other entry will allow you to re-enter the record: y
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: n
+
+
+         Would you like to create another?
+         Enter 'Y' for yes any other is a no: y
+
+
+          FILE CREATION
+
+        [1] Create Master File
+
+        [2] Create Transaction File
+
+        [3] Main Menu
+
+        Enter your choice from above: 2
+
+
+
+         Enter the name of the file you wish to create.
+
+         The filename must be less than 30 char. long: trans.txt
+
+        Enter transaction command: c
+
+        Enter record number: 1
+
+
+         Enter a '#' key if you want to leave the field as is:
+
+        Last Name (15 char): Newlast
+
+        First Name (10 char): newFirst
+
+        Soc. Sec. (9 char): 123456789
+
+       Enter Street(25 char): 22 new street
+
+       City (15 char): new city
+
+       State (2 char): AC
+
+       Zip Code (5 digits): 12345
+
+       Rate of Pay (5 integers): 111.11
+
+       Dependents one-digit: 2
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+        Enter transaction command: c
+
+        Enter record number: 5
+
+
+         Enter a '#' key if you want to leave the field as is:
+
+        Last Name (15 char): #
+
+        First Name (10 char): new name
+
+        Soc. Sec. (9 char): #
+
+        Enter Street(25 char): #
+
+        City (15 char): New City
+
+        State (2 char): NM
+
+        Zip Code (5 digits): #
+
+        Rate of Pay (5 integers): 33333
+
+        Dependents one-digit: #
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+        Enter transaction command: d
+
+        Enter record number: 4
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+        Enter transaction command: a
+
+        Enter record number: 21
+
+        Last Name (15 char): Jones
+
+        First Name (10 char): Jenny
+
+        Soc. Sec. (9 digits)#: 22222222
+
+        Street (25 char.): 55 Talk Rd.
+
+        City (15 char): Chicago
+
+        State (2 char): IL
+
+        Zip (5 digits): 22222
+
+        Rate Pay (5 num, 2 decimal): 222.22
+
+        Number of Depend.: 1
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+        Enter transaction command: d
+
+        Enter record number: 22
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+        Enter transaction command: c
+        Enter record number: 21
+
+
+         Enter a '#' key if you want to leave the field as is:
+
+        Last Name (15 char): #
+
+        First Name (10 char): jenny
+
+        Soc. Sec. (9 char): 999999999
+
+        Enter Street(25 char): #
+
+        City (15 char): #
+
+        State (2 char): MI
+
+        Zip Code (5 digits): #
+
+        Rate of Pay (5 integers): 999.99
+
+        Dependents one-digit: #
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+        Enter transaction command: a
+
+        Enter record number: 1
+
+        Last Name (15 char): Gibson
+
+        First Name (10 char): Mel
+
+        Soc. Sec. (9 digits)#: 1234567
+
+        Street (25 char.): 22 Hollywood Blv.
+
+        City (15 char): LA
+
+        State (2 char): CA
+
+        Zip (5 digits): 12345
+
+        Rate Pay (5 num, 2 decimal): 111.11
+
+        Number of Depend.: 1
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+        Enter transaction command: c
+
+        Enter record number: 33
+
+
+         Enter a '#' key if you want to leave the field as is:
+
+        Last Name (15 char): #
+
+        First Name (10 char): #
+
+        Soc. Sec. (9 char): #
+
+        Enter Street(25 char): only new field
+
+        City (15 char): #
+
+        State (2 char): #
+
+        Zip Code (5 digits): #
+
+        Rate of Pay (5 integers): #
+
+        Dependents one-digit: #
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+
+        Enter transaction command: a
+
+        Enter record number: 40
+
+        Last Name (15 char): Clinton
+
+        First Name (10 char): Hillary
+
+        Soc. Sec. (9 digits)#: 123456
+
+        Street (25 char.): 22 Senator Rd.
+
+        City (15 char): New York
+
+        State (2 char): 12345
+
+        Zip (5 digits):
+        Rate Pay (5 num, 2 decimal): 111.23
+
+        Number of Depend.: 2
+
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+        Enter transaction command: c
+
+        Enter record number: 10
+
+
+         Enter a '#' key if you want to leave the field as is:
+
+        Last Name (15 char): #
+
+        First Name (10 char): #
+
+        Soc. Sec. (9 char): #
+
+        Enter Street(25 char): #
+        City (15 char): Rochester
+
+        State (2 char): AL
+
+        Zip Code (5 digits): 33333
+
+        Rate of Pay (5 integers): 200.21
+
+        Dependents one-digit: #
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+        Enter transaction command: a
+
+        Enter record number: 50
+
+        Last Name (15 char): Browkaw
+
+        First Name (10 char): Tom
+
+        Soc. Sec. (9 digits)#: 22222222
+
+        Street (25 char.): 33 News Road
+
+        City (15 char): Junoe
+
+        State (2 char): Al
+
+        Zip (5 digits): 22222
+
+        Rate Pay (5 num, 2 decimal): 2.22
+
+        Number of Depend.: 2
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: y
+
+        Enter transaction command: d
+
+        Enter record number: 13
+
+
+         If you would like to enter another record
+         Enter a 'Y' or 'y'-- any other entry will be
+         assumed to be a no: n
+
+
+         Would you like to create another?
+         Enter 'Y' for yes any other is a no: n
+
+
+
+
+
+               Main Menu
+
+        [1] File creation
+
+        [2] Master File update
+
+        [3] Quite
+
+
+        Choose 1,2 or 4: 2
+
+
+
+         Please enter the master file name.
+         (no greater than 30 characters): master.txt
+
+
+         MASTER FILE UPDATE
+
+
+          Record number #1
+
+         Last Name:  DesRosiers
+         First Name: Tom
+         Social:     212121212
+         Street:     44 Garrison Rd.
+         City:       Marietta
+         State:      GA
+         Zip:        30008
+         Rate:       $999.99
+         # Depend:   1
+
+         Enter any key to move on: h
+
+
+
+
+          Record number #2
+
+         Last Name:  Gantly
+         First Name: Jimmy
+         Social:     12345678
+         Street:     55 Spring ST.
+         City:       Atlanta
+         State:      GA
+         Zip:        89888
+         Rate:       $111.11
+         # Depend:   2
+
+         Enter any key to move on: j
+
+
+
+          Record number #3
+
+         Last Name:  Oakly
+         First Name: Anny
+         Social:     13212321
+         Street:     22 Happy Trails Rd.
+         City:       Washington
+         State:      OR
+         Zip:        87867
+         Rate:       $222.22
+         # Depend:   3
+
+         Enter any key to move on: j
+
+
+          Record number #4
+
+         Last Name:  Hendrix
+         First Name: Jimmy
+         Social:     123456
+         Street:     11 Sunny Road
+         City:       New York
+         State:      NY
+         Zip:        32432
+         Rate:       $100.11
+         # Depend:   1
+
+         Enter any key to move on: j
+
+
+
+          Record number #5
+
+         Last Name:  Simpson
+         First Name: Homer
+         Social:     123212321
+         Street:     22 Cartoon St.
+         City:       Springfield
+         State:      AZ
+         Zip:        23234
+         Rate:       $999.99
+         # Depend:   3
+
+         Enter any key to move on: j
+
+
+          Record number #6
+
+         Last Name:  Barkley
+         First Name: Charles
+         Social:     123212321
+         Street:     11 Powder Springs
+         City:       Orlando
+         State:      Fl
+         Zip:        123221
+         Rate:       $122.11
+         # Depend:   2
+
+         Enter any key to move on: j
+
+
+          Record number #7
+
+         Last Name:  Madison
+         First Name: Billy
+         Social:     123232321
+         Street:     33 Twisted Trail
+         City:       Sante Fe
+         State:      NM
+         Zip:        67654
+         Rate:       $333.22
+         # Depend:   1
+
+         Enter any key to move on: j
+
+
+
+          Record number #8
+
+         Last Name:  Clinton
+         First Name: Bill
+         Social:     238958473
+         Street:     1600 Pennsylvania Av.
+         City:       Washington
+         State:      DC
+         Zip:        56543
+         Rate:       $999.99
+         # Depend:   1
+
+         Enter any key to move on: j
+
+
+          Record number #9
+
+         Last Name:  Crystal
+         First Name: Billy
+         Social:     123123212
+         Street:     22 Park Av.
+         City:       New York
+         State:      NY
+         Zip:        98743
+         Rate:       $111.11
+         # Depend:   1
+
+         Enter any key to move on: a
+
+
+          Record number #10
+
+         Last Name:  Busch
+         First Name: George
+         Social:     8973842
+         Street:     33 Governers Rd.
+         City:       Austin
+         State:      TX
+         Zip:        65432
+         Rate:       $211.33
+         # Depend:   1
+
+         Enter any key to move on: j
+
+
+
+
+          Record number #11
+
+         Last Name:  Lewis
+         First Name: Jerry
+         Social:     45654565
+         Street:     123 Delk Rd.
+         City:       Boston
+         State:      MA
+         Zip:        56433
+         Rate:       $233.12
+         # Depend:   2
+
+         Enter any key to move on: j
+
+
+
+          Record number #12
+
+         Last Name:  Letterman
+         First Name: David
+         Social:     123212321
+         Street:     234 Comedy Street
+         City:       New York
+         State:      NY
+         Zip:        76543
+         Rate:       $334.55
+         # Depend:   0
+
+         Enter any key to move on: h
+
+
+
+          Record number #13
+
+         Last Name:  Leno
+         First Name: Jay
+         Social:     345434323
+         Street:     333 Funny Rd.
+         City:       Los Angelos
+         State:      CA
+         Zip:        87654
+         Rate:       $111.33
+         # Depend:   8
+
+         Enter any key to move on: j
+
+
+
+          Record number #14
+
+         Last Name:  Hamilton
+         First Name: Joe
+         Social:     323232132
+         Street:     455 Sunny Dale
+         City:       Nome
+         State:      AL
+         Zip:        76543
+         Rate:       $222.33
+         # Depend:   3
+
+         Enter any key to move on: j
+
